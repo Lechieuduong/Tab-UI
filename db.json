@@ -1,0 +1,24 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "name": "Javacript",
+      "description": "Javacript courses"
+    },
+    {
+      "id": 2,
+      "name": "NodeJS",
+      "description": "NodeJS courses"
+    },
+    {
+      "id": 3,
+      "name": "ReactJS",
+      "description": "ReactJS courses"
+    },
+    {
+      "name": "VueJS",
+      "description": "VueJS courses",
+      "id": 4
+    }
+  ]
+}
